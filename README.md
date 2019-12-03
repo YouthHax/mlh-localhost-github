@@ -1,8 +1,8 @@
-# MLH Localhost Hometown Map
+# YouthHax2019 Hometown Map
 
 This repository contains the source code for a map of the hometowns of anyone who attends the MLH Localhost workshop, How to Collaborate on Code Projects with GitHub. Participants learn best practice GitHub workflows, add their hometown to `locations.txt`, and see the giant community they're part of!
 
-## How to participate in this workshop
+## How to add your hometown
 
 1. Make a GitHub account.
 2. Fork this repository.
