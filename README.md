@@ -16,13 +16,13 @@ This repository contains the source code for a map of the hometowns of anyone wh
 
 ### NodeJS
 
-The map itself is a Node.js application. Node.js allows us to write full-stack
+The map itself is a Node.js application.
 
 ## NPM packages used
 
 ### [express](https://www.npmjs.com/package/express)
 
-Fast, unopinionated, minimalist web framework for node. This is the framework with which we built the application.
+Fast, unopinionated, minimalist web framework for node. The framework with which the application was built.
 
 ### [dotenv](https://www.npmjs.com/package/dotenv)
 
@@ -34,7 +34,7 @@ Node library for geocoding and reverse geocoding.
 
 ### [ejs](https://www.npmjs.com/package/ejs)
 
-Embedded JavaScript templates
+Embedded JavaScript templates.
 
 ## Try the application locally, if you want!
 
@@ -54,9 +54,7 @@ Brazil
 Japan
 ```
 
-To add a new location, simply append a new line to the locations.txt file
-
-There is also a `locations.txt.example` file that can be used to test the app. Copy its content to locations.txt and restart the app.
+To add a new location, simply append a new line to the locations.txt file and restart the app.
 
 ## Running the application:
 ### Web
@@ -68,8 +66,8 @@ To run this application locally, you'll need to:
 - Clone this repository:
 
 ```
-git clone https://github.com/MLH/mlh-localhost-github.git
-cd localhost-github
+git clone https://github.com/YouthHax/youthhax-map.git
+cd youthhax-map
 npm install
 ```
 
