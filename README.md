@@ -59,7 +59,10 @@ To add a new location, simply append a new line to the locations.txt file
 There is also a `locations.txt.example` file that can be used to test the app. Copy its content to locations.txt and restart the app.
 
 ## Running the application:
+### Web
+You can see the map at https://youthhax.cf/map
 
+### Local
 To run this application locally, you'll need to:
 
 - Clone this repository:
@@ -72,7 +75,7 @@ npm install
 
 - Set up environment variables:
 
-There is a `.env.example` file that can be used to configure the app. Simply create a copy named `.env`
+Change the port and API KEY in `.env`:
 
 ```txt
 PORT= # Port to be used by the app
@@ -85,4 +88,4 @@ Now inside the root folder run:
 npm start
 ```
 
-Now you can access locally in your browser the address `http://localhost:3000` and see your locations map.
+Now you can access locally in your browser the address `http://localhost:PORT` and see your locations map.
