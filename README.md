@@ -1,6 +1,7 @@
 # YouthHax2019 Hometown Map
 
 This repository contains the source code for a map of the hometowns of anyone who attends the MLH Localhost workshop, How to Collaborate on Code Projects with GitHub. Participants learn best practice GitHub workflows, add their hometown to `locations.txt`, and see the giant community they're part of!
+![YouthHax Map](https://i.ibb.co/VDZ6473/yh-map.png)
 
 ## How to add your hometown
 
@@ -34,7 +35,7 @@ Node library for geocoding and reverse geocoding.
 
 ### [ejs](https://www.npmjs.com/package/ejs)
 
-Embedded JavaScript templates.
+Express JS (embedded templates, etc.)
 
 ## Try the application locally, if you want!
 
@@ -42,7 +43,7 @@ Embedded JavaScript templates.
 
 To use the Google Maps JavaScript API, you will ned an API Key. The [API key](https://developers.google.com/maps/documentation/javascript/get-api-key) is used to track API requests associated with your project for usage and billing. To learn more about API keys, see the API Key Best Practices and the FAQs.
 
-Read the [tutorial](docs/tutorial.md) and configure your [API Key](https://developers.google.com/maps/documentation/javascript/get-api-key)
+Configure your [API Key](https://developers.google.com/maps/documentation/javascript/get-api-key)
 
 ## Adding a new location
 
